@@ -30,7 +30,7 @@ Excel VBAで作成したファイル一覧取得ツールです。
 <img src=https://github.com/Cathub08/FileListRetrievalTool_VBA/blob/main/images/%E2%91%A3%20FileList%E5%87%BA%E5%8A%9B%E7%B5%90%E6%9E%9C.png width="800">
 
 ## コード抜粋
-<img src=https://github.com/Cathub08/FileListRetrievalTool_VBA/blob/main/images/Code%E6%8A%9C%E7%B2%8B.png width="800">
+<img src=https://github.com/Cathub08/FileListRetrievalTool_VBA/blob/main/images/Code%E6%8A%9C%E7%B2%8B.png width="700">
 
 ## 工夫したポイント
 ・シート存在チェックを実装し、必要シート不足時は処理を中断
